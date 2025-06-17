@@ -70,16 +70,16 @@ Editame este usuario
 
 ## Vistas de la pagina web
 Login
-![Login](image.png)
+![Login](./img/image.png)
 Inicio
-![Inicio](image-1.png)
+![Inicio](./img/image-1.png)
 Ejemplo de busqueda
-![Inicio Busqueda](image-2.png)
+![Inicio Busqueda](./img/image-2.png)
 Formulario para crear
-![Formulario para crear](image-3.png)
+![Formulario para crear](./img/image-3.png)
 Edicion de un elemento
-![edicion](image-4.png)
+![edicion](./img/image-4.png)
 Base de datos de Mongo usuarios MASTER
-![Base de datos de usuarios autenticados](image-5.png)
+![Base de datos de usuarios autenticados](./img/image-5.png)
 Base de datos de Mongo para los usuarios del CRUD
-![Base de datos usuarios](image-6.png)
+![Base de datos usuarios](./img/image-6.png)
