@@ -1,20 +1,25 @@
 # Prueba Técnica Alan Giovanni Torres Mora
-## Demostracion
-[Link de la app](https://pruebatecnica1-n94o.onrender.com/)
+## 🧪 Demostración
+
+🔗 [Link de la app](https://pruebatecnica1-n94o.onrender.com/)
+
 ---
-USUARIO ALAN
-email 1:
-    ejemplo1@gmail.com
-password1:
-    123456789
-USUARIO MICHELLE
+
+## 👤 Usuarios de Prueba
+
+### 🧑 Usuario: ALAN  
+- **Email:** ejemplo1@gmail.com  
+- **Contraseña:** 123456789
+
+### 👩 Usuario: MICHELLE  
+- **Email:** ejemplo2@gmail.com  
+- **Contraseña:** 123456789
+
 ---
-email2:
-    ejemplo2@gmail.com
-password2:
-    123456789
----
-Nota: La app esta desplegada en render, por lo que puede tomar unos minutos en cargar debido a que es una version gratuita y se tiene que activar el servidor
+
+📝 **Nota:**  
+La aplicación está desplegada en [Render](https://render.com/), por lo que puede tardar unos minutos en cargar debido a que el servidor gratuito entra en estado de suspensión cuando no está en uso.
+
 ---
 
 ## Planificación y arquitectura
