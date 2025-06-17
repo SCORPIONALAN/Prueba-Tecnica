@@ -4,6 +4,6 @@ export const conexionDB = async () =>{
         const conexion = await mongoose.connect(process.env.MONGO_URL);
         console.log("conexion existosa!!!");
     } catch (error) {
-        console.log("Algo me fallo")
+        console.log("Algo me fallo: " + error)
     }
 }
