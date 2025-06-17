@@ -95,6 +95,8 @@ Login
 ![Login](./img/image.png)
 Inicio
 ![Inicio](./img/image-1.png)
+JWT para la autenticacion y sesiones
+![alt text](./img/jwt.png)
 Ejemplo de busqueda
 ![Inicio Busqueda](./img/image-2.png)
 Formulario para crear
