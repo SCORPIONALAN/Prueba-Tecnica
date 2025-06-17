@@ -2,7 +2,7 @@ import express from 'express';
 import dotenv from "dotenv";
 import { conexionDB } from './lib/db.js';
 import autenticacion from "./routes/autenticacion.route.js";
-import inicio from "./routes/inicio.routes.js"
+import inicio from "./routes/inicio.routes.js";
 import path from "path";
 import cookieParser from 'cookie-parser';
 import cors from "cors";
