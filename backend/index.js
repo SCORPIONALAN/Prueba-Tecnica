@@ -10,7 +10,7 @@ import cors from "cors";
 dotenv.config();
 const app = express();
 const PORT = process.env.PORT;
-const __dirname = path.resolve()
+const __dirname = path.resolve();
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
