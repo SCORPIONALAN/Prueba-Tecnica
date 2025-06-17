@@ -19,7 +19,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm mt-0">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm mt-0 sticky-top">
       <div className="container">
         <div className='d-flex gx-2 align-items-center'>
           <img src='/logoEntrevista.png' alt= "logo de mi empresa" style={{ height: '80px', width: 'auto' }}/>
