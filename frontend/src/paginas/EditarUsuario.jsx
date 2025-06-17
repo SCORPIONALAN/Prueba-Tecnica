@@ -18,6 +18,7 @@ const EditarUsuario = () => {
       colonia: "",
       cp: "",
       municipio: "",
+      estado:""
     },
     email: ""
   });
@@ -105,6 +106,11 @@ const EditarUsuario = () => {
             <div className="mb-3">
               <label htmlFor="municipio" className="form-label">Municipio</label>
               <input type="text" className="form-control" id="municipio" value={usuario.direccion.municipio} onChange={(e) => setUsuario({ ...usuario, direccion:{...usuario.direccion, municipio: e.target.value} })} />
+            </div>
+
+            <div className="mb-3">
+              <label htmlFor="estado" className="form-label">Estado</label>
+              <input type="text" className="form-control" id="estado" value={usuario.direccion.estado} onChange={(e) => setUsuario({ ...usuario, direccion:{...usuario.direccion, estado: e.target.value} })} />
             </div>
           </fieldset>
 
